@@ -20,8 +20,8 @@ const IndexCreative = () => {
           <div className="vertical-center">
             <div className="started-content">
               <h1 className="h-title">
-                Hello, {`I’m`} <strong>Alejandro Abeyta</strong>, UX/UI Designer
-                and Front-end Developer Based in San Francisco.
+                Hello, {`I’m`} <strong>Mohammed Alukkal</strong>, Mobile Developer
+                and Security Enthusiast in India.
               </h1>
               <div className="h-subtitles" style={{ opacity: "1" }}>
                 <TypingAnimation extraClassName={"h-subtitle"} />
