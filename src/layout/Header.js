@@ -25,7 +25,7 @@ const Menu = () => (
                   <span className="mask-lnk mask-lnk-hover">Home</span>
                 </a>
               </Link>
-              <ul className="sub-menu">
+              <!--ul className="sub-menu">
                 <li className="menu-item">
                   <Link href="/">
                     <a>
@@ -96,7 +96,7 @@ const Menu = () => (
                     </a>
                   </Link>
                 </li>
-              </ul>
+              </ul-->
             </li>
             <li className="menu-item menu-item-has-children">
               <Link href="/resume">
